@@ -74,13 +74,14 @@
 // console.log(z===w);
 
 //Eligible to vote or not using if else statement in JavaScript.
-let age=prompt("Enter your age:");
-if (age>=18)
-{
-    document.write("You are eligible to vote.");
-}
-else
-{
-    document.write("You are not eligible to vote.");
-}
+// let age=prompt("Enter your age:");
+// if (age>=18)
+// {
+//     document.write("You are eligible to vote.");
+// }
+// else
+// {
+//     document.write("You are not eligible to vote.");
+// }
+
 
