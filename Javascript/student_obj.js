@@ -37,11 +37,11 @@
 // console.log("The cost of ",obj.name," is ",obj.price);
 // console.log(`The cost of ${obj.name} is ${obj.price}`);
 
-let student = {
-    name:"Amit",
-    roll_no:2503201000999,
-    cgpa:9.1
-}
-console.log(`The name of student is ${student.name}`);
+// let student = {
+//     name:"Amit",
+//     roll_no:2503201000999,
+//     cgpa:9.1
+// }
+// console.log(`The name of student is ${student.name}`);
 
-console.log(`The sum of 1,2 and 3 is ${1+2+3}`);
+// console.log(`The sum of 1,2 and 3 is ${1+2+3}`);
