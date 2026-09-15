@@ -16,13 +16,16 @@
 // let marks=[34,56,78,89,90,100];
 // console.log(marks[0]);
 
-// let student = [
-//     {name:"Amit",city:"Delhi",cgpa:7.5},
-//     {name:"Rahul",city:"Ghaziabad",cgpa:9.8},
-//     {name:"Prateek",city:"Mumbai",cgpa:8.8}
-// ]
-// table.log(student);
-//console.table(student);
+let student = [
+    {name:"Amit",city:"Delhi",cgpa:7.5},
+    {name:"Rahul",city:"Ghaziabad",cgpa:9.8},
+    {name:"Prateek",city:"Mumbai",cgpa:8.8},
+    {name:"Sanskriti",city:"Almora",cgpa:9.1},
+    {name:"Swabhiman",city:"Odisha",cgpa:9.3},
+    {name:"Vipin",city:"Rajasthan",cgpa:9.5}
+]
+//table.log(student);
+console.table(student);
 
 // for (let i=0;i<student.length;i++)
 // {
